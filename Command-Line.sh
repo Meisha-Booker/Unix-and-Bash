@@ -176,7 +176,6 @@ that directory without confirmation, rm -f overrides the implicit -i option
 and removes all files immediately without having to confirm each one.
 
 Excercise 11
-
 1. By copying and pasting the text from the HTML version of Figure 17, use echo to
 make a file called sonnet_1_complete.txt containing the full (original) text of
 Shakespeare’s first sonnet. Hint: You may recall getting stuck when echo was

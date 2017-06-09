@@ -27,3 +27,4 @@ Command Line Cheat Sheet
 |mv| rename or to move a file
 |rm| remove a file
 |cp| copy a file
+|mkdir| make directory|
