@@ -19,7 +19,12 @@ Command Line Cheat Sheet
 |ls	|Short listing|
 |ls -l	|Long listing|
 |ls -a	|Listing incl. hidden files|
+|ls -rtl | lists by reversed time of modification
 |q|	Exit|
 |clear|	Clear screen|
 |touch [file]|	Create new file|
 |pwd	|Full path to working directory|
+|mv| rename or to move a file
+|rm| remove a file
+|cp| copy a file
+|mkdir| make directory|
